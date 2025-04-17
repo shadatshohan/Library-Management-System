@@ -4,7 +4,7 @@ A web-based Library Management System built with **Laravel**. This project allow
 Admin
 ![alt](https://github.com/shadatshohan/Library-Management-System/blob/9bad58359ee1b532f8a834d455d7d7543a215f34/library_management_system1.png)
 ![Alt-text](https://github.com/shadatshohan/Library-Management-System/blob/b659f29927a3585feabbd7120e3ea4925635e541/lms_admin1.png)
-![Alt]([lms_admin2.png](https://github.com/shadatshohan/Library-Management-System/blob/9bad58359ee1b532f8a834d455d7d7543a215f34/lms_admin2.png))
+![Alt]([lms_admin2.png](https://github.com/shadatshohan/Library-Management-System/blob/9bad58359ee1b532f8a834d455d7d7543a215f34/lms_admin2.png)
 ![alt](https://github.com/shadatshohan/Library-Management-System/blob/9bad58359ee1b532f8a834d455d7d7543a215f34/library_management_system_admin.png)
 
 ---
